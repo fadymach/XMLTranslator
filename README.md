@@ -2,7 +2,7 @@ This revision of the code does not work with documents that have anything in the
 
 
 # To use:
-In python 3, run `createCSV` and type the name of the XML document with the extension.
+In python 3, run `createCSV.py` and type the name of the XML document with the extension.
 eg. strings.xml
 
 This will create a folder (translationsOutput) and within that, a CSV file (generatedCSV) will be created. 
@@ -13,7 +13,7 @@ Once the spreadsheet is done loading, save it as CSV file in the same folder as 
 - Download as 
 - Comma-separated values (.csv, current sheet)
 
-Then in python, run `createXML` and type the name of the new CSV file. 
+Then in python, run `createXML.py` and type the name of the new CSV file. 
 eg. generatedCSV - generatedCSV.csv
 
 This will create a series of folders inside the translationsOutput folder, each containing the XML file with the tranlated strings. 
