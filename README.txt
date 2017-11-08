@@ -1,7 +1,7 @@
 This revision of the code does not work with documents that have anything in the XML file other than the strings. Make sure there are no comments or extra text. A sample XML file is supplied for reference on how to format your XML. Any other format of XML can not be guaranteed to work in this revision of the code. 
 
 
-To use:
+##To use:
 In python 3, run createCSV and type the name of the XML document with the extension.
 eg. strings.xml
 
@@ -19,6 +19,11 @@ This will create a series of folders inside the translationsOutput folder, each 
 These folders can be imported into Android Studio and used in your application.
 
 
+I have only tested on Windows and Linux computers, both using Python 3. Not sure if works on MacOS
+
 
 If you would like for less than the 104 default langauges, the language codes can be removed from the language_codes.txt file. 
 A full reference of the codes/languages can be found here: https://cloud.google.com/translate/docs/languages
+
+A video Tutorial can be found here:
+[Video Tutorial](https://youtu.be/s1QJnglyvFA)
