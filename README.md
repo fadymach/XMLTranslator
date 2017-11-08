@@ -9,7 +9,9 @@ This will create a folder (translationsOutput) and within that, a CSV file (gene
 Open that CSV file in Google Spreadsheets and wait for that to load, it may take a while depending on the amount of strings in your initial XML file.
 
 Once the spreadsheet is done loading, save it as CSV file in the same folder as your python scripts. 
-File -> Download as -> Comma-separated values (.csv, current sheet)
+- File 
+- Download as 
+- Comma-separated values (.csv, current sheet)
 
 Then in python, run createXML and type the name of the new CSV file. 
 eg. generatedCSV - generatedCSV.csv
@@ -25,5 +27,6 @@ I have only tested on Windows and Linux computers, both using Python 3. Not sure
 If you would like for less than the 104 default langauges, the language codes can be removed from the language_codes.txt file. 
 A full reference of the codes/languages can be found here: https://cloud.google.com/translate/docs/languages
 
+### Video Tutorial
 A video Tutorial can be found here:
 [Video Tutorial](https://youtu.be/s1QJnglyvFA)
