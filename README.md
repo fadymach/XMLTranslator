@@ -2,7 +2,7 @@
 
 ### Video Tutorial
 A video Tutorial can be found here:
-[Video Tutorial](https://youtu.be/s1QJnglyvFA)
+[Video Tutorial](https://youtu.be/w236mZxTCyA)
 
 
 # To use:
