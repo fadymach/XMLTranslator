@@ -1,0 +1,8 @@
+<resources>
+    <string name="purchase">Purchase</string>
+    <string name="item_title">White Mesh Pluto Backpack</string>
+    <string name="item_price">$62.68</string>
+    <string name="item_description">Mesh backpack in white. Black textile trim throughout.</string>
+    <string name="purchase_done">Device credential confirmed.</string>
+    <string name="already_confirmed_device_credentials">The device credential are confirmed.</string>
+</resources>
