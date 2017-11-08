@@ -1,7 +1,7 @@
 This revision of the code does not work with documents that have anything in the XML file other than the strings. Make sure there are no comments or extra text. A sample XML file is supplied for reference on how to format your XML. Any other format of XML can not be guaranteed to work in this revision of the code. 
 
 
-##To use:
+## To use:
 In python 3, run createCSV and type the name of the XML document with the extension.
 eg. strings.xml
 
